@@ -1,0 +1,1 @@
+DELETE FROM `springbootdb`.`clientes` WHERE (`id` = '2');
